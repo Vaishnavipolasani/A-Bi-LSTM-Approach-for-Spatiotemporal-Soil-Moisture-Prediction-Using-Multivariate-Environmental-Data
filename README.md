@@ -1,4 +1,4 @@
-A Bi LSTM Approach for Spatiotemporal Soil Moisture Prediction Using Multivariate Environmental Data
+## A Bi LSTM Approach for Spatiotemporal Soil Moisture Prediction Using Multivariate Environmental Data
 
 This project focuses on **crop yield prediction** using machine learning and deep learning techniques. The objective is to improve accuracy in predicting crop production by leveraging environmental variables, historical data, and advanced models.
 
@@ -44,6 +44,4 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
-Would you like me to also add a **Usage/How to Run** section (with example command/code snippet), so anyone cloning your repo can run it directly?
